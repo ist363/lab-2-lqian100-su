@@ -1,0 +1,160 @@
+html,body{
+    margin:0px;
+    padding:0px;
+    height:100%;
+    width:100%;
+}
+
+.one{
+    width:100%;
+    display:flex;  
+}
+
+.one-one{
+    width:50%;
+    background-color:#6396f1;
+    height:200px;
+    margin:10px;
+}
+
+.two{
+    width:100%;
+    display:flex;
+}
+
+.two-one{
+    width:25%;
+    background-color:#fc6747;
+    margin:10px;
+    height:200px;
+}
+
+.two-two{
+    width:50%;
+    height:200px;
+    background: #fc6747;
+    margin:10px;
+}
+
+.three{
+    width:100%;
+    display:flex;
+}
+
+.three-one{
+    width:40%;
+    height:200px;
+    background-color: #9072df;
+    margin:10px;
+}
+
+.three-two{
+    width:20%;
+    height:200px;
+    background-color: #9072df;
+    margin:10px; 
+}
+
+.four{
+    width:100%;
+    display:flex;
+    justify-content: space-between;
+}
+
+.four-one{
+    width:33.3%;
+    height:200px;
+    background-color: #92bbbc;
+    margin:10px; 
+}
+
+.five{
+    width:100%;
+    display:flex;
+    j
+}
+
+.five-one{
+    width:25%;
+    margin:10px;
+    background-color: #D9A500;
+    height:200px;
+}
+
+.five-two{
+    width:25%;
+    margin:10px;
+    background-color: #D9A500;
+    height:200px;
+    margin-left: auto;
+}
+
+.flex_body{
+    width:100%;
+    height:100%;
+    display:flex;
+    margin:0px;
+    padding:0px;
+    flex-direction: column;
+}
+
+.header{
+    width:100%;
+    height:100px;
+    background-color: #f04937;
+    display:flex;
+}
+
+.bottom{
+    width:100%;
+    height:200px;
+    background-color: #434343;
+    display: flex;
+}
+
+.flex_container{
+    width:100%;
+    flex:1;
+    display: flex;
+}
+
+.big_one{
+    margin:10px;
+    background-color:#fafafa;;
+    width:75%;
+    border:1px solid #d7d7d7;
+}
+
+.small_one{
+    margin:10px;
+    background-color:#fafafa;
+    width:25%;
+    border:1px solid #d7d7d7;
+}
+
+.page3_big{
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height:100%;
+    flex-direction: column;
+}
+
+.small1{
+    width:900px;
+    height:200px;
+    display: flex;
+}
+
+.page3_item{
+    width:300px;
+    background-color:lightslategray;
+    margin:10px;
+}
+
+.small2{
+    width:900px;
+    height:200px;
+    display: flex;
+}
